@@ -1,0 +1,22 @@
+# Location, Fairbanks,
+# Site, BCEF,
+# PitID, DA375,
+# Date/Local Standard Time, 2023-03-16T11:30,
+# UTM Zone, 6N,
+# Easting,437263,
+# Northing,7179390,
+# Latitude,64.73335,
+# Longitude,-148.31735,
+# Flags, None,
+# Pit Comments, nan,
+# Parameter Codes, n/a for this parameter,
+# Depth (cm),Temperature (deg C),Time start/end
+73,-15,11:46:00
+70,-15.6,-9999
+60,-12.7,-9999
+50,-10.6,-9999
+40,-8.7,-9999
+30,-7.1,-9999
+20,-6,-9999
+10,-5.1,-9999
+0,-4.5,11:56:00
